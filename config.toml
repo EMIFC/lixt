@@ -1,11 +1,11 @@
 baseURL = 'https://emifc.github.io/lixt/'
 languageCode = 'en-us'
-title = 'Blog'
+title = 'Blog of Xiaotong'
 theme = "hugo-split-gallery"
 
 [taxonomies]
   location = "locations"
-  season = "seasons"
+  theme = "themes"
   tag= "tags"
 
 [params]
@@ -40,7 +40,7 @@ theme = "hugo-split-gallery"
   [params.taxonomies]
     [params.taxonomies.locations]
       icon = "location-arrow"
-    [params.taxonomies.seasons]
+    [params.taxonomies.theme]
       icon = "calendar"
     [params.taxonomies.tags]
       icon = "hashtag"
