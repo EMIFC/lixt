@@ -5,6 +5,7 @@ images: ["images/IMGP7044.jpg"]
 locations: "Lede"
 seasons: ["Fall", "Summer"]
 section: ["meditation"]
+tags: ["imgasge"]
 ---
 
 it is the page of Lede travel!
