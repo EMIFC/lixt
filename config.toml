@@ -5,8 +5,8 @@ theme = "hugo-split-gallery"
 
 [taxonomies]
   location = "locations"
-  season = "seasons"
-  tag= " images"
+  season = ["Fall","Summer"]
+  tag= ["images"]
 
 [params]
   robots = "index, follow"
