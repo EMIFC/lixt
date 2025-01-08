@@ -1,4 +1,4 @@
-baseURL = 'https://emifc.github.io/'
+baseURL = 'https://emifc.github.io/lixt/'
 languageCode = 'en-us'
 title = 'Blog'
 theme = "hugo-split-gallery"
