@@ -6,7 +6,7 @@ theme = "hugo-split-gallery"
 [taxonomies]
   location = "locations"
   season = ["Fall","Summer"]
-  tag= ["images"]
+  tag= "tags"
 
 [params]
   robots = "index, follow"
@@ -42,3 +42,5 @@ theme = "hugo-split-gallery"
       icon = "location-arrow"
     [params.taxonomies.seasons]
       icon = "calendar"
+      [params.taxonomies.tags]
+      icon = "hashtag"
