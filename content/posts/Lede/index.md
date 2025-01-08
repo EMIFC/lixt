@@ -3,7 +3,7 @@ title: "Lede"
 date: 2020-06-14T00:00:00+00:00
 images: ["images/IMGP7044.jpg"]
 locations: "Lede"
-themes: ["Fall", "Summer"]
+theme: ["Fall", "Summer"]
 section: ["meditation"]
 tags: ["imgasge"]
 ---
