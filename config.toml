@@ -3,15 +3,20 @@ languageCode = 'en-us'
 title = 'Blog'
 theme = "hugo-split-gallery"
 
+[taxonomies]
+  location = "locations"
+  season = "seasons"
+  section = "sections"
+
 [params]
   robots = "index, follow"
   favicon = ""
-  description = "email contact"
+  description = "Photo gallery inspired by Hugo Split Theme"
   images = ["DSCF0348.jpg"]
   # customCss = ['css/custom1.css', 'css/custom2.css']
   # customJs = ['js/custom1.js', 'js/custom2.js']
   # enableDownloadAll = false
-  footnote = "Foo bar"
+  footnote = "email x.tli@outlook"
   includeOriginalImage = false
   # largeImageSize = "2000x"
   # siteLogo = ""
