@@ -4,7 +4,7 @@ date: 2020-06-14T00:00:00+00:00
 images: ["images/IMG_8897.jpg"]
 locations: "Lede"
 sections: ["meditation"]
-tags: ["sheep""horse"]
+tags: ["sheep"]
 ---
 
 it is the page of Lede travel!
