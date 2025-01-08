@@ -1,0 +1,5 @@
+baseURL = 'http://lixt.github.io/'
+languageCode = 'en-us'
+title = 'Blog'
+theme = "hugo-split-gallery"
+

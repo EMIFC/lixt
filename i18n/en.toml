@@ -1,0 +1,37 @@
+[poweredby]
+other = """\
+    Email
+    """
+
+[sections]
+other = "Sections"
+
+[seealso]
+other = "See also..."
+
+[publishedAt]
+other = "Article published on {{ . }}"
+
+[photosTakenOn]
+other = "Photos taken on {{ . }}"
+
+[downloadPhotos]
+other = "Download all photos"
+
+[downloadGPXfile]
+other = "Download the track"
+
+[downloadGPXfileWithName]
+other = "Download the track '{{ . }}'"
+
+[openGPXinmap2gpx]
+other = "Open the track in map2gpx"
+
+[openGPXinmap2gpxWithName]
+other = "Open the track '{{ . }}' in map2gpx"
+
+[error404]
+other = "This is not the page you were looking for"
+
+[translations]
+other = "Translations"
