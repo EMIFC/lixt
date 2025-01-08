@@ -6,8 +6,7 @@ theme = "hugo-split-gallery"
 [taxonomies]
   location = "locations"
   season = "seasons"
-  section = "sections"
-
+  
 [params]
   robots = "index, follow"
   favicon = ""
