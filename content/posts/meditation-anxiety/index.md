@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Meditation feedback-anxiety"
 images: ["images/DSCF0348.jpg"]
 layout: "plain"
 date: 2021-07-14T12:34:56+00:00
