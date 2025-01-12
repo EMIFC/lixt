@@ -1,6 +1,6 @@
 baseURL = 'https://emifc.github.io/lixt/'
 languageCode = 'en-us'
-title = 'Blog of Xiaotong'
+title = 'Xiaotong Li'
 theme = "hugo-split-gallery"
 
 [taxonomies]
