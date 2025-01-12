@@ -1,0 +1,15 @@
+---
+title: "Meditation feedback"
+images: ["images/IMG_8894.jpg"]
+layout: "plain"
+date: 2021-07-14T12:34:56+00:00
+draft: false
+---
+(1)
+Today, I tried a new techniques of meditation and I found it helpful to anxiety. Anxiety normally manifests as a sensation between my throat and stomach, so the technique of the middle way meditation - focusing the center of body becomes a very difficult task for me, bringing difficulties to breathing. The imaginary center object and the feeling of anxiety have a war moment, creating a tense, uncomfortable struggle. The thing I tried is, I imagined the center object as resilient, I visualized it transforming into a capsule resting in my mouth. when the anxiety left, I slowly moved it to center point. But I still have strong feeling that both of these energies are very aggressive, and sometimes their conflict even causes headaches.
+Yesterday, I spoke to teaching monk Note, He suggested that instead of swallowing it, I could place myself in the center of the object and observe the anxiety.
+What I found most useful was that, while practicing this technique, I could focus better on observing my anxiety when I felt protected by the imagined object. When the anxiety feeling getting stronger, I continued observing it, wait until it is getting weak, then I started to imagine it's a soft messy sheet that I could  slowly fold up, it became smaller and it can’t hurt me anymore. 
+I folded this “messy sheet” a few times today and enjoyed the process. The image of this sheet has expanding particles, making the boundary not absolute clear, Folding it wasn’t just about picking up its tiny corners— but also have to see much more closer and pick up its dust.  Just found this  cleanup visualization very useful. Glad!
+
+(2) 
+Today, when I was working on game modding, anxiety suddenly hit me with a very strong push. I had to turn off all the sound and slowly sit down and start meditating. I can feel more easy to locate the feeling now, As I looked at it, I saw a white light aggressively jumping around in the darkness. After a while, it began to calm down, and I reached out my hand, trying to touch it. It remained clam and I started to pet it, it slowly dimmed its sharp light, and to my surprise, I realized it was a furry creature with brown hair on both sides, it is actually a furry buddy. I kept petting it and comforting it by words until it was about to fall in sleep, then I continued thinking about my work when it was relaxing.  It seemed to sense this because its light began shining again, I shifted my attention back to only focus on petting it, It didn’t seem very generous in sharing my attention, but it was sleeping in a very cute way, it rolled itself into a little fur ball, with its little breath. It was a bit too cute, I just could’t help to smile. After it settled back into sleep, I opened my eyes. I could still feel it was resting inside me. I felt glad to have it, so adorable to meeting it. It was the first time we really meet each other. 
