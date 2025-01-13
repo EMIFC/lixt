@@ -21,5 +21,8 @@ And the image for this page is a cap'n crunch whistle, seemed as early hacking t
 - Radar.squat: https://radar.squat.net/en
 - Calculating Empires: https://calculatingempires.net/
 - Celtic Music Archives: https://tinwhistler.com/
+- 犴达罕 The Last Moose Of Aoluguya: https://youtu.be/0UD4p3v4Fz0?si=vxvpm0Yr2FLksg93
+- water, not weapons: https://www.youtube.com/watch?v=U_gxTsT6khg&list=WL&index=13
+- Lessons from a Calf: https://www.youtube.com/watch?v=SBeUhZ0L_b0&list=WL&index=14
 
 
