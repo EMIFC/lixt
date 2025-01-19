@@ -1,5 +1,5 @@
 ---
-title: "Meditation feedback"
+title: "Meditation reflection"
 images: ["images/IMG_8894.jpg"]
 layout: "plain"
 date: 2025-01-04T12:34:56+00:00
