@@ -6,7 +6,7 @@ date: 2025-01-13 T12:34:56+00:00
 locations: "my brain"
 draft: false
 ---
-This page is for the homepages I value.
+his page is for the homepages and media I enjoy.
 And the image for this page is a cap'n crunch whistle, seemed as early hacking tool in hacker history.
 
 
@@ -24,5 +24,7 @@ And the image for this page is a cap'n crunch whistle, seemed as early hacking t
 - 犴达罕 The Last Moose Of Aoluguya: https://youtu.be/0UD4p3v4Fz0?si=vxvpm0Yr2FLksg93
 - water, not weapons: https://www.youtube.com/watch?v=U_gxTsT6khg&list=WL&index=13
 - Lessons from a Calf: https://www.youtube.com/watch?v=SBeUhZ0L_b0&list=WL&index=14
+- Origin of love: https://www.youtube.com/watch?v=_zU3U7E1Odc&list=PL8VvYA54PUURB5vd8lS0hkPH3KS_hxkrA&index=10
+- Dreams by The Cranberries: https://www.youtube.com/watch?v=Yam5uK6e-bQ&list=PL8VvYA54PUURB5vd8lS0hkPH3KS_hxkrA&index=11
 
 
