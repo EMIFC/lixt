@@ -13,13 +13,12 @@ This page is for the homepages and media I enjoy. And the image on the right for
 - The Atlantic Cable website: https://atlantic-cable.com/#gsc.tab=0
 - FTL design: https://ftldesign.com/
 - Mass Observation Archive: https://massobs.org.uk/
-- Coolguy: https://solarpunk.cool./
 - Low tech magazine: https://solar.lowtechmagazine.com/
 - HTML Energy: https://html.energy/
-- Virtual Borders by Manu Luksch: https://vimeo.com/282580968
 - Radar.squat: https://radar.squat.net/en
 - Calculating Empires: https://calculatingempires.net/
 - Celtic Music Archives: https://tinwhistler.com/
+- Virtual Borders by Manu Luksch: https://vimeo.com/282580968
 - 犴达罕 The Last Moose Of Aoluguya: 
 
 https://youtu.be/0UD4p3v4Fz0?si=vxvpm0Yr2FLksg93
